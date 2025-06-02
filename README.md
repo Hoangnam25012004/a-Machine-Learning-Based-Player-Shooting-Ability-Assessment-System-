@@ -1,4 +1,4 @@
-# a-Machine-Learning-Based-Player-Shooting-Ability-Assessment-System-
+# A Machine Learning-Based Player Shooting Ability Assessment System
 
 # Football Player Shooting Ability Analysis
 
