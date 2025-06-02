@@ -19,6 +19,7 @@ This project develops a multi-dimensional scoring system to assess football play
 
 ## 📁 Project Structure
 football-shooting-analysis/
+
 ├── train_model.py # Main analysis and model training script
 
 ├── create_embedded_website.py # Interactive web application generator
