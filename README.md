@@ -119,7 +119,7 @@ The interactive web application provides:
 - **Shot History**: Individual shot analysis with context
 - **Responsive Design**: Works on desktop and mobile devices
 
-![Web Application Main Interface](https://github.com/Hoangnam25012004/a-Machine-Learning-Based-Player-Shooting-Ability-Assessment-System-/tree/main/images)
+![](https://github.com/Hoangnam25012004/a-Machine-Learning-Based-Player-Shooting-Ability-Assessment-System-/tree/main/images)
 
 ## 📊 Sample Output
 
