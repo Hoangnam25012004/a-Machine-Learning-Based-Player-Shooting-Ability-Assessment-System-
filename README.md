@@ -126,9 +126,9 @@ The interactive web application provides:
 
 ![Player Analysis Dashboard](https://github.com/Hoangnam25012004/a-Machine-Learning-Based-Player-Shooting-Ability-Assessment-System-/blob/main/images/Picture2.png)
 
-**Shooting Ability Over Time Visualization**
+**Shooting Ability by Shot Sequence Visualization**
 
-![Shooting Ability Over Time Visualization](https://github.com/Hoangnam25012004/a-Machine-Learning-Based-Player-Shooting-Ability-Assessment-System-/blob/main/images/Picture3.png)
+![Shooting Ability by Shot Sequence Visualization](https://github.com/Hoangnam25012004/a-Machine-Learning-Based-Player-Shooting-Ability-Assessment-System-/blob/main/images/Picture3.png)
 
 **Statistical Analysis Results**
 
