@@ -117,7 +117,6 @@ The interactive web application provides:
 - **Player Profiles**: Detailed statistics and performance metrics
 - **Time-Series Charts**: Shooting ability progression over time
 - **Shot History**: Individual shot analysis with context
-- **Responsive Design**: Works on desktop and mobile devices
 
 **Web Application Main Interface**
 
