@@ -120,9 +120,11 @@ The interactive web application provides:
 - **Responsive Design**: Works on desktop and mobile devices
 
 **Web Application Main Interface**
+
 ![Web Application Main Interface](https://github.com/Hoangnam25012004/a-Machine-Learning-Based-Player-Shooting-Ability-Assessment-System-/blob/main/images/Picture1.png)
 
 **Player Analysis Dashboard**
+
 ![Player Analysis Dashboard](https://github.com/Hoangnam25012004/a-Machine-Learning-Based-Player-Shooting-Ability-Assessment-System-/blob/main/images/Picture2.png)
 
 **Shooting Ability Over Time Visualization**
@@ -130,6 +132,7 @@ The interactive web application provides:
 ![Shooting Ability Over Time Visualization](https://github.com/Hoangnam25012004/a-Machine-Learning-Based-Player-Shooting-Ability-Assessment-System-/blob/main/images/Picture3.png)
 
 **Statistical Analysis Results**
+
 ![Statistical Analysis Results](https://github.com/Hoangnam25012004/a-Machine-Learning-Based-Player-Shooting-Ability-Assessment-System-/blob/main/images/Picture4.png)
 
 
