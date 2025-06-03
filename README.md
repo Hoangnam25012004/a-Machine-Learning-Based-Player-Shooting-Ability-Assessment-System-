@@ -120,6 +120,8 @@ The interactive web application provides:
 - **Responsive Design**: Works on desktop and mobile devices
 
 ![Web Application Main Interface](https://github.com/Hoangnam25012004/a-Machine-Learning-Based-Player-Shooting-Ability-Assessment-System-/blob/main/images/Picture1.png)
+**Web Application Main Interface**
+
 
 ## 📊 Sample Output
 
